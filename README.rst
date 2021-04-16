@@ -66,6 +66,11 @@ The Wappalyzer object exposes more methods that returns metatada for the detecte
 
 Read the `API Reference <https://chorsley.github.io/python-Wappalyzer/Wappalyzer.html>`_ for more documentation.
 
+USAGE
+****
+python3 wappalyzer_file.py
+*Please edit location of url.txt
+
 CLI
 ---
 
