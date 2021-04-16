@@ -68,8 +68,9 @@ Read the `API Reference <https://chorsley.github.io/python-Wappalyzer/Wappalyzer
 
 USAGE
 ****
-python3 wappalyzer_file.py
-*Please edit location of url.txt
+    python3 wappalyzer_file.py
+
+Please edit location of url.txt
 
 CLI
 ---
