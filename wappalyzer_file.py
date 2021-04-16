@@ -14,14 +14,4 @@ with open('/mnt/c/Users/demo/Desktop/wappalyzer_python/python-Wappalyzer/url.txt
 		output = wappalyzer.analyze_with_versions_and_categories(webpage)
 		print(output)
 
-#thanks to pesa fs
 
-#webpage = WebPage.new_from_url('https://skyrem.my')
-#webpage = WebPage.new_from_url('http://157.230.253.55/wordpress/')
-#webpage = WebPage.new_from_url('https://graduan.com/')
-#wappalyzer = Wappalyzer.latest()
-#wappalyzer = Wappalyzer.latest(update=True)
-#print (wappalyzer.analyze(webpage))
-#wappalyzer.analyze_with_versions_and_categories(webpage)
-#output = wappalyzer.analyze_with_versions_and_categories(webpage)
-#print(output)
